@@ -1,0 +1,40 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+
+/* Text */
+@font-face {
+  font-family: "Millimetre";
+  src: url(/fonts/Millimetre-Regular.otf);
+}
+@font-face {
+  font-family: "Millimetre";
+  src: url(fonts/Millimetre-Bold.otf);
+  font-weight: bold;
+}
+.header {
+  font-family: "Millimetre";
+}
+.project-txt {
+  font-family: "Millimetre"
+}
+.wrapper {
+  line-height: 120%;
+}
+
+/* Hovers */
+.div1:hover {
+  background-color: gold;
+}
+.div2:hover {
+  background-color: #19a974;
+}
+.div3:hover {
+  background-color: #ff4136;
+}
+.div4:hover {
+  background-color: #fbf1a9;
+}
+.div5:hover {
+  background-color: orange;
+}
