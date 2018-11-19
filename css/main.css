@@ -38,3 +38,22 @@
 .div5:hover {
   background-color: orange;
 }
+.div6:hover {
+  background-color: #5F68D9;
+}
+.div7:hover {
+  background-color: grey;
+}
+.div8:hover {
+  background-color: black;
+  color: white;
+}
+.div9:hover {
+  background-color: blue;
+}
+
+/* Grids */
+.dual-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
