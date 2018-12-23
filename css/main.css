@@ -12,6 +12,12 @@
   src: url(fonts/Millimetre-Bold.otf);
   font-weight: bold;
 }
+@font-face {
+  font-family: "MrEaves";
+  src: url(https://use.typekit.net/dzd8bqx.css)>
+
+)
+}
 .header {
   font-family: "Millimetre";
 }
